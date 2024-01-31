@@ -6,5 +6,6 @@ Prerequisites:
 - Linux or macOS
 - Node.js
 - Sqlite3
+- 
 
-## Esta es una prueba del repositorio Git- Sonia Martinez 
+## Esta es una prueba del repositorio Git con WebStorm- Sonia Martinez 
