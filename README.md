@@ -8,4 +8,4 @@ Prerequisites:
 - Sqlite3
 - 
 
-## Esta es una prueba del repositorio Git con WebStorm- Sonia Martinez 
+## Esta es una prueba del repositorio Git con WebStorm - Sonia Martinez 
